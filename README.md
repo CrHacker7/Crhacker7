@@ -24,12 +24,12 @@ Hi there 👋<br>I am a junior developer with a recent completion of a course in
 
 
 
-![snake gif](https://github.com/CrHacker7/CrHacker7/blob/output/github-contribution-grid-snake.svg)
 
 
+<!--
+ ![snake gif](https://github.com/CrHacker7/CrHacker7/blob/output/github-contribution-grid-snake.svg)
 
-
-
+-->
 
 
 
