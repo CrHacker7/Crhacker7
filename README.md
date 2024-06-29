@@ -22,5 +22,15 @@ Hi there 👋<br>I am a junior developer with a recent completion of a course in
 [![](https://visitcount.itsvg.in/api?id=Crhacker7&icon=2&color=3)](https://visitcount.itsvg.in)
 
 
+
+
+
 ![snake gif](https://github.com/CrHacker7/CrHacker7/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
 
