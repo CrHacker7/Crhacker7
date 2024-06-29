@@ -1,4 +1,4 @@
-# 🐍 Don´t eat my contributions!!
+# 🐍 Hey, don´t eat my contributions!!
 ![snake gif](https://github.com/CrHacker7/CrHacker7/blob/output/github-contribution-grid-snake-dark.svg)
 
 
