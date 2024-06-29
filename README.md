@@ -23,5 +23,5 @@ Hi there 👋<br>I am a junior developer with a recent completion of a course in
 
 
 https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/CrHacker7/CrHacker7/blob/output/github-contribution-grid-snake.gif)
 
